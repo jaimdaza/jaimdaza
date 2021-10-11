@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Jaime Daza
 - 👀 I'm interested in programming and soccer.
-- 🌱 I am currently learning nodejs.
-- 💞️ I am looking to collaborate on nodejs projects.
+- 🌱 I am currently learning nodejs and Angular.
+- 💞️ I am looking to collaborate in java, node.js and angular projects.
 - 📫 How to contact me, jaimdaza@gmail.com.
 
 <!---
