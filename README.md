@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Jaime Daza
 - 👀 I'm interested in programming and soccer.
-- 🌱 I am currently learning nodejs and Angular.
-- 💞️ I am looking to collaborate in java, node.js and angular projects.
-- 📫 How to contact me, jaimdaza@gmail.com.
+- 🌱 I'm currently learning nodejs and Angular.
+- 💞️ I'm looking to collaborate in java, node.js and angular projects.
+- 📫 How to contact me? jaimdaza@gmail.com.
 
 <!---
 jaimdaza/jaimdaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
